@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1528884614 source:/home/ccnlab/Desktop/S-Cache/S-Cache_Server/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<unistd.h>
+	<string.h>
+	<sys/types.h>
+	<sys/socket.h>
+	<netinet/in.h>
+	<time.h>
+
