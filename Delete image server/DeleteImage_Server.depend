@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1528202459 source:/home/ccnlab/Desktop/S-Cache/DeleteImage_Server/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<unistd.h>
+	<sys/types.h>
+	<sys/socket.h>
+	<netinet/in.h>
+
