@@ -1,0 +1,142 @@
+2018-06-13 20:44:44 S-Cache controller stand by...
+2018-06-13 20:49:26 Server get: FtpServer
+2018-06-13 20:49:26 Check the resouces of edge cloud...
+2018-06-13 20:49:30 Current resouces: CPU: 4 RAM: 8192 Disk: 20 ImageDisk 20
+2018-06-13 20:49:30 Clone FtpServer to edge cloud
+2018-06-13 20:49:30 TempResouces: CPU: 5 RAM: 10240 Disk: 25 ImageDisk: 25
+2018-06-13 20:49:30 Delete float IP from major cloud service
+2018-06-13 20:49:42 Launch service command has been processed
+2018-06-13 20:49:47 Service status checking...
+2018-06-13 20:49:52  3de733e0-3c6a-41d4-a127-cbe83d1dc402   FtpServer_Edge   BUILD  
+2018-06-13 20:49:57  3de733e0-3c6a-41d4-a127-cbe83d1dc402   FtpServer_Edge   BUILD  
+2018-06-13 20:50:03  3de733e0-3c6a-41d4-a127-cbe83d1dc402   FtpServer_Edge   BUILD  
+2018-06-13 20:50:09  3de733e0-3c6a-41d4-a127-cbe83d1dc402   FtpServer_Edge   BUILD  
+2018-06-13 20:50:14  3de733e0-3c6a-41d4-a127-cbe83d1dc402   FtpServer_Edge   BUILD  
+2018-06-13 20:50:21  3de733e0-3c6a-41d4-a127-cbe83d1dc402   FtpServer_Edge   BUILD  
+2018-06-13 20:50:27  3de733e0-3c6a-41d4-a127-cbe83d1dc402   FtpServer_Edge   BUILD  
+2018-06-13 20:50:32  3de733e0-3c6a-41d4-a127-cbe83d1dc402   FtpServer_Edge   BUILD  
+2018-06-13 20:50:38  3de733e0-3c6a-41d4-a127-cbe83d1dc402   FtpServer_Edge   BUILD  
+2018-06-13 20:50:43  3de733e0-3c6a-41d4-a127-cbe83d1dc402   FtpServer_Edge   BUILD  
+2018-06-13 20:50:48  3de733e0-3c6a-41d4-a127-cbe83d1dc402   FtpServer_Edge   BUILD  
+2018-06-13 20:50:52  3de733e0-3c6a-41d4-a127-cbe83d1dc402   FtpServer_Edge   BUILD  
+2018-06-13 20:50:57  3de733e0-3c6a-41d4-a127-cbe83d1dc402   FtpServer_Edge   ACTIVE 
+2018-06-13 20:50:57 Allocate float IP to edge cloud service
+2018-06-13 20:51:03 Total hit: 0 / Total request: 1 / Hit rate: 0.00
+2018-06-13 20:51:03 CirrOS hit : 0 Instance Cache: 0 Image Cache; 0
+2018-06-13 20:51:03 WebServer hit : 0 Instance Cache: 0 Image Cache; 0
+2018-06-13 20:51:03 FtpServer hit : 1 Instance Cache: 1 Image Cache; 1
+2018-06-13 20:51:03 CentOS7 hit : 0 Instance Cache: 0 Image Cache; 0
+----------------------------------------------
+2018-06-13 20:51:03 S-Cache controller stand by...
+2018-06-13 20:51:03 Server get: WebServer
+2018-06-13 20:51:03 Check the resouces of edge cloud...
+2018-06-13 20:51:07 Current resouces: CPU: 5 RAM: 10240 Disk: 25 ImageDisk 25
+2018-06-13 20:51:07 Clone WebServer to edge cloud
+2018-06-13 20:51:07 TempResouces: CPU: 6 RAM: 12288 Disk: 30 ImageDisk: 30
+2018-06-13 20:51:07 Delete float IP from major cloud service
+2018-06-13 20:51:18 Launch service command has been processed
+2018-06-13 20:51:23 Service status checking...
+2018-06-13 20:51:30  f536ceca-e8a9-45f5-b607-db649ba023b7   WebServer_Edge   BUILD  
+2018-06-13 20:51:36  f536ceca-e8a9-45f5-b607-db649ba023b7   WebServer_Edge   BUILD  
+2018-06-13 20:51:41  f536ceca-e8a9-45f5-b607-db649ba023b7   WebServer_Edge   BUILD  
+2018-06-13 20:51:46  f536ceca-e8a9-45f5-b607-db649ba023b7   WebServer_Edge   BUILD  
+2018-06-13 20:51:53  f536ceca-e8a9-45f5-b607-db649ba023b7   WebServer_Edge   BUILD  
+2018-06-13 20:51:58  f536ceca-e8a9-45f5-b607-db649ba023b7   WebServer_Edge   BUILD  
+2018-06-13 20:52:03  f536ceca-e8a9-45f5-b607-db649ba023b7   WebServer_Edge   BUILD  
+2018-06-13 20:52:08  f536ceca-e8a9-45f5-b607-db649ba023b7   WebServer_Edge   BUILD  
+2018-06-13 20:52:12  f536ceca-e8a9-45f5-b607-db649ba023b7   WebServer_Edge   BUILD  
+2018-06-13 20:52:16  f536ceca-e8a9-45f5-b607-db649ba023b7   WebServer_Edge   BUILD  
+2018-06-13 20:52:21  f536ceca-e8a9-45f5-b607-db649ba023b7   WebServer_Edge   BUILD  
+2018-06-13 20:52:25  f536ceca-e8a9-45f5-b607-db649ba023b7   WebServer_Edge   BUILD  
+2018-06-13 20:52:30  f536ceca-e8a9-45f5-b607-db649ba023b7   WebServer_Edge   BUILD  
+2018-06-13 20:52:41  f536ceca-e8a9-45f5-b607-db649ba023b7   WebServer_Edge   ACTIVE 
+2018-06-13 20:52:41 Allocate float IP to edge cloud service
+2018-06-13 20:52:47 Total hit: 0 / Total request: 2 / Hit rate: 0.00
+2018-06-13 20:52:47 CirrOS hit : 0 Instance Cache: 0 Image Cache; 0
+2018-06-13 20:52:47 WebServer hit : 1 Instance Cache: 1 Image Cache; 1
+2018-06-13 20:52:47 FtpServer hit : 1 Instance Cache: 1 Image Cache; 1
+2018-06-13 20:52:47 CentOS7 hit : 0 Instance Cache: 0 Image Cache; 0
+----------------------------------------------
+2018-06-13 20:52:47 S-Cache controller stand by...
+2018-06-13 20:53:15 Server get: CentOS7
+2018-06-13 20:53:15 Check the resouces of edge cloud...
+2018-06-13 20:53:19 Current resouces: CPU: 6 RAM: 12288 Disk: 30 ImageDisk 30
+2018-06-13 20:53:19 Clone CentOS7 to edge cloud
+2018-06-13 20:53:19 TempResouces: CPU: 8 RAM: 16384 Disk: 40 ImageDisk: 40
+2018-06-13 20:53:19 RAM is not enough
+2018-06-13 20:53:19 Delete FtpServer
+2018-06-13 20:53:28 Check the resouces of edge cloud...
+2018-06-13 20:53:32 Current resouces: CPU: 5 RAM: 10240 Disk: 25 ImageDisk 30
+2018-06-13 20:53:32 Allocate float IP back to Major service
+2018-06-13 20:53:38 TempResouces: CPU: 7 RAM: 14336 Disk: 35 ImageDisk: 40
+2018-06-13 20:53:38 Delete float IP from major cloud service
+2018-06-13 20:53:50 Launch service command has been processed
+2018-06-13 20:53:55 Service status checking...
+2018-06-13 20:54:00  6fd548d5-2c7d-4c39-82ef-5672c6f63840   CentOS7_Edge     BUILD  
+2018-06-13 20:54:06  6fd548d5-2c7d-4c39-82ef-5672c6f63840   CentOS7_Edge     BUILD  
+2018-06-13 20:54:11  6fd548d5-2c7d-4c39-82ef-5672c6f63840   CentOS7_Edge     BUILD  
+2018-06-13 20:54:17  6fd548d5-2c7d-4c39-82ef-5672c6f63840   CentOS7_Edge     BUILD  
+2018-06-13 20:54:22  6fd548d5-2c7d-4c39-82ef-5672c6f63840   CentOS7_Edge     BUILD  
+2018-06-13 20:54:27  6fd548d5-2c7d-4c39-82ef-5672c6f63840   CentOS7_Edge     BUILD  
+2018-06-13 20:54:33  6fd548d5-2c7d-4c39-82ef-5672c6f63840   CentOS7_Edge     BUILD  
+2018-06-13 20:54:38  6fd548d5-2c7d-4c39-82ef-5672c6f63840   CentOS7_Edge     BUILD  
+2018-06-13 20:54:43  6fd548d5-2c7d-4c39-82ef-5672c6f63840   CentOS7_Edge     BUILD  
+2018-06-13 20:54:48  6fd548d5-2c7d-4c39-82ef-5672c6f63840   CentOS7_Edge     BUILD  
+2018-06-13 20:54:53  6fd548d5-2c7d-4c39-82ef-5672c6f63840   CentOS7_Edge     BUILD  
+2018-06-13 20:54:59  6fd548d5-2c7d-4c39-82ef-5672c6f63840   CentOS7_Edge     BUILD  
+2018-06-13 20:55:11  6fd548d5-2c7d-4c39-82ef-5672c6f63840   CentOS7_Edge     BUILD  
+2018-06-13 20:55:15  6fd548d5-2c7d-4c39-82ef-5672c6f63840   CentOS7_Edge     BUILD  
+2018-06-13 20:55:20  6fd548d5-2c7d-4c39-82ef-5672c6f63840   CentOS7_Edge     BUILD  
+2018-06-13 20:55:29  6fd548d5-2c7d-4c39-82ef-5672c6f63840   CentOS7_Edge     BUILD  
+2018-06-13 20:55:33  6fd548d5-2c7d-4c39-82ef-5672c6f63840   CentOS7_Edge     BUILD  
+2018-06-13 20:55:40  6fd548d5-2c7d-4c39-82ef-5672c6f63840   CentOS7_Edge     BUILD  
+2018-06-13 20:55:44  6fd548d5-2c7d-4c39-82ef-5672c6f63840   CentOS7_Edge     BUILD  
+2018-06-13 20:55:49  6fd548d5-2c7d-4c39-82ef-5672c6f63840   CentOS7_Edge     BUILD  
+2018-06-13 20:55:54  6fd548d5-2c7d-4c39-82ef-5672c6f63840   CentOS7_Edge     ACTIVE 
+2018-06-13 20:55:54 Allocate float IP to edge cloud service
+2018-06-13 20:56:00 Total hit: 0 / Total request: 3 / Hit rate: 0.00
+2018-06-13 20:56:00 CirrOS hit : 0 Instance Cache: 0 Image Cache; 0
+2018-06-13 20:56:00 WebServer hit : 1 Instance Cache: 1 Image Cache; 1
+2018-06-13 20:56:00 FtpServer hit : 1 Instance Cache: 0 Image Cache; 1
+2018-06-13 20:56:00 CentOS7 hit : 1 Instance Cache: 1 Image Cache; 1
+----------------------------------------------
+2018-06-13 20:56:00 S-Cache controller stand by...
+2018-06-13 20:56:27 Server get: CirrOS
+2018-06-13 20:56:27 Check the resouces of edge cloud...
+2018-06-13 20:56:31 Current resouces: CPU: 7 RAM: 14336 Disk: 35 ImageDisk 40
+2018-06-13 20:56:31 Clone CirrOS to edge cloud
+2018-06-13 20:56:31 TempResouces: CPU: 8 RAM: 15360 Disk: 36 ImageDisk: 41
+2018-06-13 20:56:31 Image Disk is not enough
+2018-06-13 20:56:31 FtpServer image deleted successfully
+2018-06-13 20:56:31 TempResouces: CPU: 8 RAM: 15360 Disk: 36 ImageDisk: 36
+2018-06-13 20:56:31 Delete float IP from major cloud service
+2018-06-13 20:56:42 Launch service command has been processed
+2018-06-13 20:56:47 Service status checking...
+2018-06-13 20:56:54  348e1014-551d-4290-993f-0efc9f93be38   CirrOS_Edge      BUILD  
+2018-06-13 20:56:59  348e1014-551d-4290-993f-0efc9f93be38   CirrOS_Edge      ACTIVE 
+2018-06-13 20:56:59 Allocate float IP to edge cloud service
+2018-06-13 20:57:05 Total hit: 0 / Total request: 4 / Hit rate: 0.00
+2018-06-13 20:57:05 CirrOS hit : 1 Instance Cache: 1 Image Cache; 1
+2018-06-13 20:57:05 WebServer hit : 1 Instance Cache: 1 Image Cache; 1
+2018-06-13 20:57:05 FtpServer hit : 1 Instance Cache: 0 Image Cache; 0
+2018-06-13 20:57:05 CentOS7 hit : 1 Instance Cache: 1 Image Cache; 1
+----------------------------------------------
+2018-06-13 20:57:06 S-Cache controller stand by...
+2018-06-13 20:57:06 Server get: CirrOS
+2018-06-13 20:57:06 Hit CirrOS
+2018-06-13 20:57:06 Total hit: 1 / Total request: 5 / Hit rate: 0.20
+2018-06-13 20:57:06 CirrOS hit : 2 Instance Cache: 1 Image Cache; 1
+2018-06-13 20:57:06 WebServer hit : 1 Instance Cache: 1 Image Cache; 1
+2018-06-13 20:57:06 FtpServer hit : 1 Instance Cache: 0 Image Cache; 0
+2018-06-13 20:57:06 CentOS7 hit : 1 Instance Cache: 1 Image Cache; 1
+----------------------------------------------
+2018-06-13 20:57:06 S-Cache controller stand by...
+2018-06-13 20:57:06 Server get: WebServer
+2018-06-13 20:57:06 Hit WebServer
+2018-06-13 20:57:06 Total hit: 2 / Total request: 6 / Hit rate: 0.33
+2018-06-13 20:57:06 CirrOS hit : 2 Instance Cache: 1 Image Cache; 1
+2018-06-13 20:57:06 WebServer hit : 2 Instance Cache: 1 Image Cache; 1
+2018-06-13 20:57:06 FtpServer hit : 1 Instance Cache: 0 Image Cache; 0
+2018-06-13 20:57:06 CentOS7 hit : 1 Instance Cache: 1 Image Cache; 1
+----------------------------------------------
+2018-06-13 20:57:06 S-Cache controller stand by...
